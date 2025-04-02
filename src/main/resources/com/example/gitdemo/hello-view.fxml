@@ -22,6 +22,6 @@
     </Label>
     <TextField promptText="Username or E-mail" />
     <TextField promptText="Password" />
-    <Button mnemonicParsing="false" text="Login" />
+    <Button alignment="CENTER" mnemonicParsing="false" text="Login" />
     <Label prefHeight="50.0" prefWidth="112.0" text="FORGOT PASSWORD" />
 </VBox>
